@@ -1,202 +1,44 @@
 [
-  {
-    "en": "sheep",
-    "zh": "綿羊",
-    "pinyin": "mián yáng"
-  },
-  {
-    "en": "sheep",
-    "zh": "羊",
-    "pinyin": "yáng"
-  },
-  {
-    "en": "goat",
-    "zh": "山羊",
-    "pinyin": "shān yáng"
-  },
-  {
-    "en": "cow",
-    "zh": "乳牛",
-    "pinyin": "rǔ niú"
-  },
-  {
-    "en": "pig",
-    "zh": "豬",
-    "pinyin": "zhū"
-  },
-  {
-    "en": "fish",
-    "zh": "魚",
-    "pinyin": "yú"
-  },
-  {
-    "en": "cat",
-    "zh": "貓",
-    "pinyin": "māo"
-  },
-  {
-    "en": "dog",
-    "zh": "狗",
-    "pinyin": "gǒu"
-  },
-  {
-    "en": "horse",
-    "zh": "馬",
-    "pinyin": "mǎ"
-  },
-  {
-    "en": "duck",
-    "zh": "鴨",
-    "pinyin": "yā"
-  },
-  {
-    "en": "chicken",
-    "zh": "雞",
-    "pinyin": "jī"
-  },
-  {
-    "en": "apple",
-    "zh": "蘋果",
-    "pinyin": "píng guǒ"
-  },
-  {
-    "en": "banana",
-    "zh": "香蕉",
-    "pinyin": "xiāng jiāo"
-  },
-  {
-    "en": "milk",
-    "zh": "牛奶",
-    "pinyin": "niú nǎi"
-  },
-  {
-    "en": "egg",
-    "zh": "雞蛋",
-    "pinyin": "jī dàn"
-  },
-  {
-    "en": "rice",
-    "zh": "米飯",
-    "pinyin": "mǐ fàn"
-  },
-  {
-    "en": "bread",
-    "zh": "麵包",
-    "pinyin": "miàn bāo"
-  },
-  {
-    "en": "water",
-    "zh": "水",
-    "pinyin": "shuǐ"
-  },
-  {
-    "en": "ice",
-    "zh": "冰",
-    "pinyin": "bīng"
-  },
-  {
-    "en": "fire",
-    "zh": "火",
-    "pinyin": "huǒ"
-  },
-  {
-    "en": "school",
-    "zh": "學校",
-    "pinyin": "xué xiào"
-  },
-  {
-    "en": "teacher",
-    "zh": "老師",
-    "pinyin": "lǎo shī"
-  },
-  {
-    "en": "student",
-    "zh": "學生",
-    "pinyin": "xué shēng"
-  },
-  {
-    "en": "book",
-    "zh": "書",
-    "pinyin": "shū"
-  },
-  {
-    "en": "pencil",
-    "zh": "鉛筆",
-    "pinyin": "qiān bǐ"
-  },
-  {
-    "en": "computer",
-    "zh": "電腦",
-    "pinyin": "diàn nǎo"
-  },
-  {
-    "en": "mouse",
-    "zh": "滑鼠",
-    "pinyin": "huá shǔ"
-  },
-  {
-    "en": "keyboard",
-    "zh": "鍵盤",
-    "pinyin": "jiàn pán"
-  },
-  {
-    "en": "park",
-    "zh": "公園",
-    "pinyin": "gōng yuán"
-  },
-  {
-    "en": "train",
-    "zh": "火車",
-    "pinyin": "huǒ chē"
-  },
-  {
-    "en": "sun",
-    "zh": "太陽",
-    "pinyin": "tài yáng"
-  },
-  {
-    "en": "moon",
-    "zh": "月亮",
-    "pinyin": "yuè liàng"
-  },
-  {
-    "en": "star",
-    "zh": "星星",
-    "pinyin": "xīng xing"
-  },
-  {
-    "en": "cloud",
-    "zh": "雲",
-    "pinyin": "yún"
-  },
-  {
-    "en": "rain",
-    "zh": "雨",
-    "pinyin": "yǔ"
-  },
-  {
-    "en": "snow",
-    "zh": "雪",
-    "pinyin": "xuě"
-  },
-  {
-    "en": "wind",
-    "zh": "風",
-    "pinyin": "fēng"
-  },
-  {
-    "en": "tree",
-    "zh": "樹",
-    "pinyin": "shù"
-  },
-  {
-    "en": "flower",
-    "zh": "花",
-    "pinyin": "huā"
-  },
-  {
-    "en": "grass",
-    "zh": "草",
-    "pinyin": "cǎo"
-  }
+  { "en": "sheep", "zh": "綿羊", "pinyin": "mián yáng" },
+  { "en": "sheep", "zh": "羊", "pinyin": "yáng" },
+  { "en": "goat", "zh": "山羊", "pinyin": "shān yáng" },
+  { "en": "cow", "zh": "乳牛", "pinyin": "rǔ niú" },
+  { "en": "pig", "zh": "豬", "pinyin": "zhū" },
+  { "en": "fish", "zh": "魚", "pinyin": "yú" },
+  { "en": "cat", "zh": "貓", "pinyin": "māo" },
+  { "en": "dog", "zh": "狗", "pinyin": "gǒu" },
+  { "en": "horse", "zh": "馬", "pinyin": "mǎ" },
+  { "en": "duck", "zh": "鴨", "pinyin": "yā" },
+  { "en": "chicken", "zh": "雞", "pinyin": "jī" },
+  { "en": "apple", "zh": "蘋果", "pinyin": "píng guǒ" },
+  { "en": "banana", "zh": "香蕉", "pinyin": "xiāng jiāo" },
+  { "en": "milk", "zh": "牛奶", "pinyin": "niú nǎi" },
+  { "en": "egg", "zh": "雞蛋", "pinyin": "jī dàn" },
+  { "en": "rice", "zh": "米飯", "pinyin": "mǐ fàn" },
+  { "en": "bread", "zh": "麵包", "pinyin": "miàn bāo" },
+  { "en": "water", "zh": "水", "pinyin": "shuǐ" },
+  { "en": "ice", "zh": "冰", "pinyin": "bīng" },
+  { "en": "fire", "zh": "火", "pinyin": "huǒ" },
+  { "en": "school", "zh": "學校", "pinyin": "xué xiào" },
+  { "en": "teacher", "zh": "老師", "pinyin": "lǎo shī" },
+  { "en": "student", "zh": "學生", "pinyin": "xué shēng" },
+  { "en": "book", "zh": "書", "pinyin": "shū" },
+  { "en": "pencil", "zh": "鉛筆", "pinyin": "qiān bǐ" },
+  { "en": "computer", "zh": "電腦", "pinyin": "diàn nǎo" },
+  { "en": "mouse", "zh": "滑鼠", "pinyin": "huá shǔ" },
+  { "en": "keyboard", "zh": "鍵盤", "pinyin": "jiàn pán" },
+  { "en": "park", "zh": "公園", "pinyin": "gōng yuán" },
+  { "en": "train", "zh": "火車", "pinyin": "huǒ chē" },
+  { "en": "sun", "zh": "太陽", "pinyin": "tài yáng" },
+  { "en": "moon", "zh": "月亮", "pinyin": "yuè liàng" },
+  { "en": "star", "zh": "星星", "pinyin": "xīng xing" },
+  { "en": "cloud", "zh": "雲", "pinyin": "yún" },
+  { "en": "rain", "zh": "雨", "pinyin": "yǔ" },
+  { "en": "snow", "zh": "雪", "pinyin": "xuě" },
+  { "en": "wind", "zh": "風", "pinyin": "fēng" },
+  { "en": "tree", "zh": "樹", "pinyin": "shù" },
+  { "en": "flower", "zh": "花", "pinyin": "huā" },
+  { "en": "grass", "zh": "草", "pinyin": "cǎo" },
+  { "en": "dragon", "zh": "龍", "pinyin": "lóng" },
+  { "en": "window", "zh": "窗戶", "pinyin": "chuāng hù" }
 ]
