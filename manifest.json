@@ -1,0 +1,20 @@
+{
+  "name": "中文筆順工具",
+  "short_name": "筆順工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://ashleych34.github.io/hanzi-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ashleych34.github.io/hanzi-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
